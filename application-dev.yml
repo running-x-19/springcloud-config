@@ -1,8 +1,2 @@
-server:
-  port: 8088
-spring:
-  cloud:
-    config:
-      server:
-        git:
-          username: xwl
+config:
+  info: xwl is s student
